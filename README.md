@@ -1,6 +1,6 @@
 # ☁️ Cloud Task Scheduling Simulation and Benchmarking
 
-A Python-based simulation framework that compares three task scheduling algorithms — **Random Scheduling**, **Power of Two Choices**, and **Weighted Round Robin** — for efficient task allocation across heterogeneous Virtual Machines (VMs) in cloud environments, with the goal of minimizing **makespan**.
+A Python-based simulation framework that compares three task scheduling algorithms **Random Scheduling**, **Power of Two Choices**, and **Weighted Round Robin** for efficient task allocation across heterogeneous Virtual Machines (VMs) in cloud environments, with the goal of minimizing **makespan**.
 
 ---
 
